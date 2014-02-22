@@ -1,0 +1,11 @@
+deleted/
+history/
+logs/
+mailbox/
+tester/
+experts/config/
+experts/files/
+experts/presets/
+*.ini
+*.dat
+*.ex4
